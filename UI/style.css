@@ -29,8 +29,7 @@ body {
     justify-content: space-around;
     position: absolute;
     top: 2rem;
-    /* left: 25vw; */
-    right: 2vw;
+    left: 25vw;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     cursor: pointer;
 }
